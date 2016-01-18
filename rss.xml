@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Glasgow Signs]]></title>
         <description><![CDATA[Glasgow Signs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/glasgow-signs/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Mon, 18 Jan 2016 11:50:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/glasgow-signs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf1c18f8-737a-45d5-a669-693351e75aa5.jpg">]]></description>
+            <link>https://thegrid.ai/glasgow-signs/6ac21a56-004c-4ee8-89c3-3a9cca4205f2/index.html</link>
+            <guid isPermaLink="false">6ac21a56-004c-4ee8-89c3-3a9cca4205f2</guid>
+            <pubDate>Mon, 18 Jan 2016 11:46:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Glasgow Signs]]></title>
             <description><![CDATA[<article><h1>Glasgow Signs</h1><p>Douglas Mars and team provide a complete range of signwriting and signmaking services from construction to installation.. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f4b522241c4a3bfc44aa5ff93cc17f61ad2dbb9.gif"></article>]]></description>
-            <link>undefinedglasgow-signs/index.html</link>
+            <link>https://thegrid.ai/glasgow-signs/glasgow-signs/index.html</link>
             <guid isPermaLink="false">41841d50-795d-402a-b857-51aeea80a2dd</guid>
             <pubDate>Mon, 18 Jan 2016 11:46:04 GMT</pubDate>
         </item>
